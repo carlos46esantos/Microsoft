@@ -1,0 +1,37 @@
+.mesmo{
+    width: 100px;
+    height: 100px;
+}
+bod{
+    position: relative;
+}
+
+.quadrado-1{
+    background-color: #f25022;
+    position: absolute;
+    left: 500px;
+    top: 150px;
+
+}
+
+.quadrado-2{
+    background-color: #7fba00;
+    position: absolute;
+    left: 610px;
+    top: 150px;
+}
+
+.quadrado-3{
+    background-color: #00a4ef;
+    position: absolute;
+    left: 500px;
+    top: 260px;
+
+}
+
+.quadrado-4{
+    background-color: #ffb900;
+    position: absolute;
+    left: 610px;
+    top: 261px;
+}
